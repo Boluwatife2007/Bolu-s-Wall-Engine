@@ -1,38 +1,67 @@
-# Wallpaper Download Platform
+# Bolu's Wall Engine
 
-A responsive wallpaper browsing and download platform built with React, HTML, and CSS.
+Bolu's Wall Engine is a responsive wallpaper browsing and download platform built with React, HTML, and CSS. The platform allows users to explore wallpapers organized into categories and download their favorite images.
 
 ## Features
 
 - Browse wallpapers by category
-- Anime wallpapers
-- Abstract wallpapers
+- Categories include:
+  - Anime
+  - Abstract
+  - Other wallpaper collections
 - View wallpapers
 - Download wallpapers
-- Responsive design for different screen sizes
+- Responsive design for desktop and mobile devices
+- Simple and user-friendly interface
 
-## Technologies
+## Technologies Used
 
 - React
-- HTML
-- CSS
+- HTML5
+- CSS3
+- JavaScript
 
-## Getting Started
+## Project Purpose
 
-### Installation
+This project was developed as a personal web development project to improve my skills in front-end development, React, UI design, and application structure.
+
+## Installation
 
 Clone the repository:
 
-git clone 
+```bash
+git clone https://github.com/Boluwatife2007/Bolu-s-Wall-Engine.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Bolu-s-Wall-Engine
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
-Start the development server:
+Run the development server:
 
-npm run dev
+```bash
+npm start
+```
+
+## Future Improvements
+
+- Add search functionality
+- Add more wallpaper categories
+- User accounts and favorites
+- Cloud storage integration
+- Live deployment
 
 ## Author
 
-Aisida Boluwatife Peter
+**Aisida Boluwatife Peter**
+
+- GitHub: https://github.com/Boluwatife2007
+  
